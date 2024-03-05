@@ -75,3 +75,12 @@ http://www.internetdownloadmanager.com/download.html
 
 github token 
 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
+
+
+## ehentai
+
+ipb_member_id=7105865
+
+ipb_pass_hash=3218304e3629e488b91da2ce5519f5ff;
+
+igneous=95d2eeb9f
